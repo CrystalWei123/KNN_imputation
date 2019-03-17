@@ -2,7 +2,7 @@ from utils import *
 
 
 class KnnImpute():
-    def __init__(self, k, threshold):
+    def __init__(self, k=3, threshold=0.4):
         self.k = k
         self.threshold = threshold
 
