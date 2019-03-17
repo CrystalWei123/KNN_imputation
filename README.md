@@ -1,6 +1,5 @@
 # KNN_imputation
 Imputing missing value using KNN.
-# Getting Started
 ## Install
 pandas, numpy are required
 
